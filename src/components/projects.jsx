@@ -16,11 +16,18 @@ const projects = [
     link: '',
   },
   {
-    title: 'Dominion Restuarant',
+    title: 'Dominion Restaurant',
     description:
-      'A responsive website designed to showcase Nigeria dishes and make it easy for customers to explore the restuarant's services and get in touch.',
+      'A responsive website designed to showcase Nigeria dish and make it easy for customers to explore the restuarant services and get in touch.',
     tech: ['HTML', 'CSS', 'JavaScript'],
     link: 'https://noxera-1.github.io/dominion/',
+  },
+  {
+    title: 'PurpleVoice AI',
+    description:
+      'An AI-powered voice assistant designed to help users with various tasks and information retrieval.',
+    tech: ['Python', 'TensorFlow', 'JavaScript'],
+    link: 'https://noxera-1.github.io/purplevoice/',
   },
 ]
 

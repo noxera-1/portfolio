@@ -24,8 +24,9 @@ function Contact() {
 
           <a
             href="https://wa.me/2348164221429?text=Hi Miracle!
-            I saw your portfolio and I'd love to work on a prejoct with you.
-            "
+            I saw your portfolio and I'd love to work on a project with you."
+            
+            
             className="contact-button secondary"
             target="_blank"
             rel="noreferrer"
