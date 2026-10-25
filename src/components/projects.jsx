@@ -13,7 +13,7 @@ const projects = [
     description:
       'A personal portfolio showcasing my web development skills, projects, and services.',
     tech: ['React', 'CSS', 'JavaScript'],
-    link: '',
+    link: 'https://noxera-1.github.io/portfolio',
   },
   {
     title: 'Dominion Restaurant',
