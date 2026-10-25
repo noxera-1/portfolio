@@ -6,7 +6,7 @@ const projects = [
     description:
       'A transportation website designed to help students and residents explore ride options and request transportation.',
     tech: ['HTML', 'CSS', 'JavaScript'],
-    link: 'https://dsah1-tech.github.io/campusride/',
+    link: 'https://noxera-1.github.io/campusride/',
   },
   {
     title: 'Personal Portfolio',
@@ -14,6 +14,13 @@ const projects = [
       'A personal portfolio showcasing my web development skills, projects, and services.',
     tech: ['React', 'CSS', 'JavaScript'],
     link: '',
+  },
+  {
+    title: 'Dominion Restuarant',
+    description:
+      'A responsive website designed to showcase Nigeria dishes and make it easy for customers to explore the restuarant's services and get in touch.',
+    tech: ['HTML', 'CSS', 'JavaScript'],
+    link: 'https://noxera-1.github.io/dominion/',
   },
 ]
 

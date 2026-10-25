@@ -26,7 +26,7 @@ function Hero() {
 
       <div className="hero-image">
         <div className="photo-frame">
-          <img src="/profile.jpg" alt="Miracle Ebube" />
+          <img src={`${import.meta.env.BASE_URL}profile.jpg`} alt="Miracle Ebube" />
         </div>
       </div>
     </section>

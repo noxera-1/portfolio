@@ -16,14 +16,16 @@ function Contact() {
 
         <div className="contact-buttons">
           <a
-            href="mailto:YOUR_EMAIL_HERE"
+            href="mailto:miracleebubeedeh@gmail.com"
             className="contact-button primary"
           >
             Email Me
           </a>
 
           <a
-            href="https://wa.me/YOUR_PHONE_NUMBER"
+            href="https://wa.me/2348164221429?text=Hi Miracle!
+            I saw your portfolio and I'd love to work on a prejoct with you.
+            "
             className="contact-button secondary"
             target="_blank"
             rel="noreferrer"
